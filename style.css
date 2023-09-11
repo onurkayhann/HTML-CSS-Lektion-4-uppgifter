@@ -1,3 +1,8 @@
 .bigText {
   font-size: 2em;
 }
+
+.bigText,
+p {
+  margin-left: 2rem;
+}
